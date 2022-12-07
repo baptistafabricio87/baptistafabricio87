@@ -10,10 +10,6 @@
 
 <p align="center">
 <br>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -50,9 +46,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptistafabricio87&layout=compact)
 
 
-
 ### Certificações, Cursos e Projetos
-<details><summary>⚡...</summary>
+<summary>⚡...</summary>
 <p>
 
 - **[Microsoft Certified: Azure Fundamentals - AZ-900](https://www.credly.com/badges/8f3d10ef-0514-4f57-8ada-fde419768ee0)**
@@ -67,4 +62,3 @@
 
 - [Descubra o Python](https://www.linkedin.com/learning/certificates/0c6804b06794ef710e4302434971b150677685db260cf02a2a258deb22d31da6?trk=share_certificate)
 </p>
-</details>
