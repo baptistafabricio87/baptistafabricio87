@@ -49,8 +49,6 @@
 
 
 ### Certificações, Cursos e Projetos
-<summary>⚡...</summary>
-<p>
 
 - **[Microsoft Certified: Azure Fundamentals - AZ-900](https://www.credly.com/badges/8f3d10ef-0514-4f57-8ada-fde419768ee0)**
 
@@ -63,4 +61,3 @@
 - [Introdução Git - GitHub e comandos para trabalhar em equipe](https://certificates.digitalinnovation.one/5B47512E)
 
 - [Descubra o Python](https://www.linkedin.com/learning/certificates/0c6804b06794ef710e4302434971b150677685db260cf02a2a258deb22d31da6?trk=share_certificate)
-</p>
