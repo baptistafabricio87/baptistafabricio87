@@ -6,7 +6,7 @@
 - 🌱 Estou cursando *ADS - [Fatec RL](https://github.com/fatecrl)* e estudando *Python*, *Cloud* e outras linguagens também.
 <br>
 
-### Linguagens & Ferramentas:
+### Tecnologias & Ferramentas:
 
 <p align="center">
 <br>
@@ -45,6 +45,7 @@
 [Email](mailto:baptistafabricio87@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baptistafabricio87&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptistafabricio87&layout=compact)
 
 
