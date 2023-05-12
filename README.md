@@ -1,9 +1,10 @@
-# Olá 👋, sou Fabrício Baptista de Castro. 
+# Olá 👋, sou Fabrício!
+
 > ## Apaixonado por tecnologia e pela minha família.
 
-- 🔭 Atualmente atuo como *Analista de Suporte*
+- 🔭 Atualmente atuo como *Analista*
 
-- 🌱 Estou cursando *ADS - [Fatec RL](https://github.com/fatecrl)* e estudando *Python*, *Cloud* e outras linguagens também.
+- 🌱 Estou cursando *ADS - [Fatec RL]([https://github.com/fatecrl](https://fatecrl.edu.br/))* e estudando *Python*, *Cloud* e outras linguagens também.
 <br>
 
 ### Tecnologias & Ferramentas:
