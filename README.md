@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente atuo como *Analista*
 
-- 🌱 Estou cursando *ADS - [Fatec RL]([https://github.com/fatecrl](https://fatecrl.edu.br/))* e estudando *Python*, *Cloud* e outras linguagens também.
+- 🌱 Estou cursando *ADS - [Fatec RL](https://fatecrl.edu.br/)* e estudando *Python*, *Cloud* e outras linguagens também.
 <br>
 
 ### Tecnologias & Ferramentas:
