@@ -2,9 +2,9 @@
 
 > ## Apaixonado por tecnologia e pela minha família.
 
-- 🔭 Atualmente atuo como *Analista*
+- 🔭 Atualmente atuo como *Analista de Suporte*
 
-- 🌱 Estou cursando *ADS - [Fatec RL](https://fatecrl.edu.br/)* e estudando *Python*, *Cloud* e outras linguagens também.
+- 🌱 Estudando *Python*, *Cloud* e outras tecnologias.
 <br>
 
 ### Tecnologias & Ferramentas:
